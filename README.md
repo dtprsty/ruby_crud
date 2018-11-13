@@ -1,32 +1,29 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-# ruby_crud
-=======
-# README
+# Simple Blog CRUD With ROR
+ [![license](https://img.shields.io/github/license/mashape/apistatus.svg)]() 
+Languages : Ruby, Framework : Rails
+Basic CRUD with Authenticate.  
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Pre
+    Ruby version 2.5.0 or higher
+    Postgresql
+    Bundler
+    Rails
 
-Things you may want to cover:
+# Run Local
+  
+    git clone <url repo> | Clone this repo
+    bundle install | Install gem
+    rake db:create | Create database
+    rake db:migrate | Create migration
+    rails server | Running rails server in localhost
+    running at http://localhost:3000
 
-* Ruby version
+# Run Local
+  
+  
+    bundle exec rspec
+    Open file index.html in file:///<your-path-to-file>/blog-workshop/coverage/index.html, open browser for show code coverage.
 
-* System dependencies
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
->>>>>>> first commit
-=======
-# ruby_crud
->>>>>>> 9209318eec03e3eaee54fe9b79f35e895bad3156
+# Author
+Dwi Teguh Prasetyo | dtprasetyoo@gmail.com
