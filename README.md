@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # ruby_crud
 =======
 # README
@@ -26,3 +27,6 @@ Things you may want to cover:
 
 * ...
 >>>>>>> first commit
+=======
+# ruby_crud
+>>>>>>> 9209318eec03e3eaee54fe9b79f35e895bad3156
